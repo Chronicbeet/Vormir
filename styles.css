@@ -145,7 +145,7 @@ li {
     display: block;
 }
 .Feature1 .column2 .list2 .box{
-  list-style-type: disc !important;
+  list-style-type: disc;
 }
 .big2{
     font-size: 48px;
