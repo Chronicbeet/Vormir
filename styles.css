@@ -144,10 +144,8 @@ li {
 .box{
     display: block;
 }
-   
-
-.list2{
-    list-style-type: circle;
+.Feature1 .column2 .list2 .box{
+  list-style-type: disc !important;
 }
 .big2{
     font-size: 48px;
