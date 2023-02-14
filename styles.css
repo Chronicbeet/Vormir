@@ -143,9 +143,14 @@ li {
 .box{
     display: block;
 }
+<<<<<<< HEAD
 
 .Feature1 .column2 .list2 .box{
   list-style-type: disc !important;
+=======
+.Feature1 .column2 .list2 .box{
+  list-style-type: disc;
+>>>>>>> 006e41a852238bdafe7072362016d562ed66518e
 }
 
 
@@ -259,6 +264,7 @@ li {
     font-size: 18px;
     color: #F58A07  ;
 }
+<<<<<<< HEAD
 
 .big5{
   font-family: "Poppins";
@@ -518,3 +524,5 @@ footer{
 footer{
 position: relative;  
 }
+=======
+>>>>>>> 006e41a852238bdafe7072362016d562ed66518e
