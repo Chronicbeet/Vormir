@@ -5,17 +5,6 @@
   padding: 0%;
   font-family: "poppins", sans-serif;
 }
-/* 
-p {
-  height: 216px;
-  width: 618px;
-} */
-
-
-/* 
-img{
-    margin: 0;
-} */
 
 nav {
   margin: 0 16.67%;
@@ -72,7 +61,7 @@ li {
 .img-odd {
   float: right;
   position: relative;
-  left: 29px;
+  left: 35px;
 }
 
 .header {
@@ -143,17 +132,6 @@ li {
 .box{
     display: block;
 }
-<<<<<<< HEAD
-
-.Feature1 .column2 .list2 .box{
-  list-style-type: disc !important;
-=======
-.Feature1 .column2 .list2 .box{
-  list-style-type: disc;
->>>>>>> 006e41a852238bdafe7072362016d562ed66518e
-}
-
-
 
 .big2{
     font-size: 48px;
@@ -264,7 +242,7 @@ li {
     font-size: 18px;
     color: #F58A07  ;
 }
-<<<<<<< HEAD
+
 
 .big5{
   font-family: "Poppins";
@@ -519,10 +497,10 @@ footer{
 .rightOrange{
   position: absolute;
   right: 0;
-    top: 40px;
+  top: 40px; 
 }
+
 footer{
 position: relative;  
 }
-=======
->>>>>>> 006e41a852238bdafe7072362016d562ed66518e
+
