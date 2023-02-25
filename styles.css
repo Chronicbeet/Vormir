@@ -64,15 +64,6 @@ li {
   left: 35px;
 }
 
-.header {
-  display: flex;
-  margin: 0 16.67%;
-  margin-top: 108px;
-}
-
-.column {
-  flex: 50%;
-}
 .but {
   width: 171px;
   height: 54px;
