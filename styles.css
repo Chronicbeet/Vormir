@@ -18,7 +18,7 @@
     float: left;
   }
 
-  ul {
+  nav ul {
     margin: 0;
     float: right;
   }
@@ -89,52 +89,55 @@
     border: none;
   }
 
-  .img-even {
-    position: relative;
-    right: 48px;
-    margin-top: 128px;
-  }
 
-  .big1 {
-    font-family: "Poppins";
-    font-size: 48px;
-    font-weight: 600;
-    float: right;
-    margin-top: 256px;
-    position: relative;
-    width: auto;
-    right: 130px;
-  }
-
-  .small1 {
-    font-family: "Poppins";
-    float: right;
-    margin-top: 24px;
-    font-size: 18px;
-    font-weight: 500;
-    margin-left: 31px;
-    list-style: circle;
-    color: #5B5B5B;
-
-  }
 
   /* Section 2 */
 
   .Feature1 {
     display: flex;
-    margin: 0 7%;
+    margin: 0% 7% 0% 7%;
+    padding: 2rem 0rem 0rem 0rem;
   }
 
-  .column1 img {}
-
-  .box {
-    display: block;
+  .img-even {
+    position: relative;
+    right: 48px;
+    /* margin-top: 128px;
+    margin: 128px 48px 0px 0px; */
   }
+
+  .column2 h1 {
+    font-size: 48px;
+    font-weight: 600;
+    margin: 10px 0px 0px 0px;
+    /* float: right;
+    margin-top: 256px;
+    position: relative;
+    width: auto;
+    right: 130px; */
+  }
+
+  .column2 h5 {
+    margin-top: 24px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #5B5B5B;
+  }
+
+  .column2 ul {
+    /* display: block; */
+  }
+
 
   .Feature1 .column2 ul .box {
+    /* display: block; */
     list-style-position: inside;
     list-style-type: circle;
   }
+
+  /* .Feature1 .column2 ul .box {
+    
+  } */
 
 
   .big3 {
