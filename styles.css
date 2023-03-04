@@ -18,7 +18,7 @@
     float: left;
   }
 
-  ul {
+  nav ul {
     margin: 0;
     float: right;
   }
@@ -88,64 +88,48 @@ color: #394149;
     color: #ffffff;
     border: none;
   }
-/* Section 2 */
+
   .img-even {
     position: relative;
     right: 48px;
-    margin-top: 128px;
+    /* margin-top: 128px;
+    margin: 128px 48px 0px 0px; */
   }
 
   .big1 {
-    margin: 0 0 0 132px;
     font-family: "Poppins";
     font-size: 48px;
     font-weight: 600;
-    float: right;
+    margin: 10px 0px 0px 0px;
+    /* float: right;
     margin-top: 256px;
     position: relative;
     width: auto;
-    right: 130px;
+    right: 130px; */
   }
 
-  .small1 {
-    font-family: "Poppins";
-    float: right;
+  .column2 h5 {
     margin-top: 24px;
     font-size: 18px;
     font-weight: 500;
-    margin-left: 31px;
-    list-style: circle;
     color: #5B5B5B;
-
   }
 
-  /* Section 2 */
-
-  .Feature1 {
-    display: flex;
-    margin: 0 7%;
+  .column2 ul {
+    /* display: block; */
   }
 
-  .column1 img {}
-
-  .box {
-    display: block;
-  }
 
   .Feature1 .column2 ul .box {
+    /* display: block; */
     list-style-position: inside;
     list-style-type: circle;
   }
 
-  .big2 {
-    font-size: 48px;
-    width: 302px;
-    height: 56px;
-    font-weight: 600;
-    font-family: 'Poppins';
-    font-style: normal;
-    margin-top: 285px;
-  }
+  /* .Feature1 .column2 ul .box {
+    
+  } */
+
 
   .big3 {
     font-size: 48px;
