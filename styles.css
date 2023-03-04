@@ -23,12 +23,12 @@
     float: right;
   }
 
-  li {
-    display: inline-block;
-    line-height: 38px;
-    margin: 10px;
-    color: #394149;
-  }
+  nav li {
+display: inline-block;
+line-height: 38px;
+margin: 10px;
+color: #394149;
+}
 
   .button {
     background-color: #fef3e6;
@@ -88,7 +88,7 @@
     color: #ffffff;
     border: none;
   }
-
+/* Section 2 */
   .img-even {
     position: relative;
     right: 48px;
@@ -96,6 +96,7 @@
   }
 
   .big1 {
+    margin: 0 0 0 132px;
     font-family: "Poppins";
     font-size: 48px;
     font-weight: 600;
@@ -291,6 +292,10 @@
     color: #5B5B5B;
   }
 
+
+
+
+  
   .latestSection {
     padding: 96px 0;
     margin-top: 128px;
